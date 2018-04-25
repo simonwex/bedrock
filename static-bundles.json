@@ -822,6 +822,13 @@
         "css/mozorg/commit-access-requirements.less"
       ],
       "name": "commit-access-requirements"
+    },
+    {
+      "files": [
+        "css/mozorg/fxa-iframeless-test.scss",
+        "css/base/mozilla-fxa-form.scss"
+      ],
+      "name": "fxa_iframeless_test"
     }
   ],
   "js": [
@@ -1436,6 +1443,12 @@
         "js/newsletter/mozilla.js"
       ],
       "name": "newsletter-mozilla"
+    },
+    {
+      "files": [
+        "js/base/mozilla-fxa-form.js"
+      ],
+      "name": "fxa_iframeless_test"
     }
   ]
 }
